@@ -5,15 +5,15 @@
 <div align="left" >- 🌱Изучаю C++ ...<br>
 - 🔭 Работаю над <a href=https://github.com/qzeleza/kvas>Квасом</a> ...<br>
 - 💬 Открыт к общению и предложениям ...<br>
-- 👯 Приглашаю поучавствовать <a href=https://github.com/qzeleza?tab=repositories>в проектах]</a> ...<br>
+- 👯 Приглашаю поучавствовать <a href=https://github.com/qzeleza?tab=repositories>в проектах</a> ...<br>
 - 📫 Стучитесь: <b>mail</b> собачка <b>zeleza</b> точка <b>ru</b> ...</div>
 
 ---
     
-<a href="https://github.com/qzeleza/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=qzeleza&show_icons=true&theme=transparent&hide_border=true&custom_title=Моя&nbsp;статистика&nbsp;на&nbsp;Github&include_all_commits=false&line_height=40" />
 </a>
-<a href="https://github.com/qzeleza/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzeleza&layout=default&langs_count=5&theme=transparent&hide_border=true&custom_title=Мои&nbsp;языки&nbsp;программирования&hide_rank=true" />
 </a>
 
