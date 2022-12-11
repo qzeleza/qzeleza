@@ -1,28 +1,20 @@
-### Всем привет! 👋
-
-- 🌱Изучаю C++ ...
-- 🔭 Работаю над [Квасом](https://github.com/qzeleza/kvas) ...
-- 💬 Открыт к общению и предложениям ...
-- 👯 Приглашаю поучавствовать [в проектах](https://github.com/qzeleza?tab=repositories) ...
-- 📫 Стучитесь: **mail** собачка **zeleza** точка **ru** ...
+### Всем привет, **[Zeleza](https://forum.keenetic.com/profile/20603-zeleza/)** на связи! 👋
+<div>- 🌱Изучаю C++ ...</div>
+      <div>- 🔭 Работаю над <a href=https://github.com/qzeleza/kvas>Квасом</a> ...</div>
+      <div>- 💬 Открыт к общению и предложениям ...</div>
+      <div>- 👯 Приглашаю поучавствовать <a href=https://github.com/qzeleza?tab=repositories>в проектах]</a> ...</div>
+      <div>- 📫 Стучитесь: <b>mail</b> собачка <b>zeleza</b> точка <b>ru</b> ...</div>
+   <br>   
+<p><img src="https://github-readme-stats.vercel.app/api?username=qzeleza&show_icons=true" alt="GitHub Stats"></p>
 
 ---
 
-
-
-Автор: **[Zeleza](https://forum.keenetic.com/profile/20603-zeleza/)**  
-<p><img src="https://github-readme-stats.vercel.app/api?username=qzeleza&show_icons=true" alt="GitHub Stats"></p>
-
-
 <table>
-  <tr>
-    <td>You're visitor</td>
+   <tr>
+     <td>Вас уже посчитали</td>
     <td><img src="https://profile-counter.glitch.me/qzeleza/count.svg" alt="" /></td>
   </tr>
 </table>
-
----
-
 <!--
 **qzeleza/qzeleza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
