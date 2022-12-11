@@ -1,20 +1,30 @@
 ### Всем привет, **[Zeleza](https://forum.keenetic.com/profile/20603-zeleza/)** на связи! 👋
-<div>- 🌱Изучаю C++ ...</div>
-      <div>- 🔭 Работаю над <a href=https://github.com/qzeleza/kvas>Квасом</a> ...</div>
-      <div>- 💬 Открыт к общению и предложениям ...</div>
-      <div>- 👯 Приглашаю поучавствовать <a href=https://github.com/qzeleza?tab=repositories>в проектах]</a> ...</div>
-      <div>- 📫 Стучитесь: <b>mail</b> собачка <b>zeleza</b> точка <b>ru</b> ...</div>
-   <br>   
-<p><img src="https://github-readme-stats.vercel.app/api?username=qzeleza&show_icons=true" alt="GitHub Stats"></p>
 
 ---
 
-<table>
-   <tr>
-     <td>Вас уже посчитали</td>
-    <td><img src="https://profile-counter.glitch.me/qzeleza/count.svg" alt="" /></td>
-  </tr>
-</table>
+<div align="left" >- 🌱Изучаю C++ ...<br>
+- 🔭 Работаю над <a href=https://github.com/qzeleza/kvas>Квасом</a> ...<br>
+- 💬 Открыт к общению и предложениям ...<br>
+- 👯 Приглашаю поучавствовать <a href=https://github.com/qzeleza?tab=repositories>в проектах]</a> ...<br>
+- 📫 Стучитесь: <b>mail</b> собачка <b>zeleza</b> точка <b>ru</b> ...</div>
+
+---
+    
+<a href="https://github.com/qzeleza/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=qzeleza&show_icons=true&theme=transparent&hide_border=true&card_width=550&custom_title=Моя&nbsp;статистика&nbsp;на&nbsp;Github&include_all_commits=false&line_height=40" />
+</a>
+<a href="https://github.com/qzeleza/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzeleza&layout=default&langs_count=5&theme=transparent&hide_border=true&card_width=400&custom_title=Мои&nbsp;языки&nbsp;программирования&hide_rank=true" />
+</a>
+
+
+---
+
+<div align="left"><b>Всего посетителей&nbsp;&nbsp;</b>
+<img align="center" src="https://profile-counter.glitch.me/qzeleza/count.svg" alt="" />
+<i>(с момента установки счетчика)</i>.
+</div>
+
 <!--
 **qzeleza/qzeleza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
