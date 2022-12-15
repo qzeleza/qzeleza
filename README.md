@@ -1,4 +1,4 @@
-### Всем привет, **[Zeleza](https://forum.keenetic.com/profile/20603-zeleza/)** на связи! 👋
+### Всем привет👋, **[Zeleza](https://forum.keenetic.com/profile/20603-zeleza/)** на связи!
 
 ---
 
