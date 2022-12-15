@@ -22,7 +22,6 @@
 
 <div align="left"><b>Всего посетителей&nbsp;&nbsp;</b>
 <img align="center" src="https://profile-counter.glitch.me/qzeleza/count.svg" alt="" />
-<i>(с момента установки счетчика)</i>.
 </div>
 
 <!--
