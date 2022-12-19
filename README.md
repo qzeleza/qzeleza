@@ -2,7 +2,7 @@
 
 ---
 
-<div align="left" >- 🌱Изучаю C++, Bash, Python...<br>
+<div align="left" >- 🌱Изучаю и пишу на C++, Bash, Python...<br>
 - 🔭 Работаю над <a href=https://github.com/qzeleza/kvas>Квасом</a> ...<br>
 - 💬 Открыт к общению и предложениям ...<br>
 - 👯 Приглашаю поучавствовать <a href=https://github.com/qzeleza?tab=repositories>в проектах</a> ...<br>
