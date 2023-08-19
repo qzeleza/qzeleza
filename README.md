@@ -14,7 +14,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=qzeleza&show_icons=true&theme=transparent&hide_border=true&custom_title=Моя&nbsp;статистика&nbsp;на&nbsp;Github&include_all_commits=false&line_height=40" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzeleza" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzeleza&layout=default&custom_title=Мои&nbsp;языки&nbsp;программирования" />
 </a>
 
 
